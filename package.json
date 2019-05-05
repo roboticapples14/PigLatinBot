@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Pig Latin Translator",
+  "main": "N",
+  "scripts": {
+    "test": "!pig"
+  },
+  "author": "Nat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "eris": "^0.9.0",
+    "winston": "^3.2.1"
+  }
+}
